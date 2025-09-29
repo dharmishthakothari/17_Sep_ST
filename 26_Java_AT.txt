@@ -1,0 +1,53 @@
+26th Sep
+
+
+Java ?
+	HW - jdk , jre , jvm
+	Program structure ? 
+	comments 
+	
+	System.out.println
+
+	simple java program
+	data types
+	operators 
+29th Sep 
+	
+	System.out.println("Test");
+	data types -----  boolean,float,char , int , double , long
+				primitive types 
+	
+			boolean valid;
+			valid=true;
+			int age=20;
+			long mobile_no =867867675;
+			float percentage=89.56f;
+			ddouble degree=23.4545345345;
+			char grade='A';
+
+
+	declaration and initilization ?
+		int age  --- declaration
+		age=22; --- initlization 
+		float percen; -- declare 
+		percen=87.45f; -- initlization			
+
+	variables ? indetifier which value may be change
+		age ,percen,degree --- are variables 
+
+		age=70;
+
+	operators ---> To operate/handle 
+		1. Arithmatic Operators
+			+ , - , * , / ,%
+		2. Relational Operator
+			> , < , >= ,<= , == ,!= --- True/False
+		3. Logical Operator
+		4. Bitwise operator
+		5. Assignment operator	
+	
+		100/51 ? 1.999	
+
+		Lab task --- check with all the relational operator
+	
+
