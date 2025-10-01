@@ -50,4 +50,15 @@ Java ?
 
 		Lab task --- check with all the relational operator
 	
+1/10 
+		
+	
+		Logical operator --- and/&& or/|| not/!
+					&& - all condition must true a>100 && a>b 
+					|| - any of one is one condition is it give true 				a>100 || a>b
+					!  - reverse 
 
+
+		Lab Task -- --- Arithmatic operator user input 
+				number1+number2	
+				Same for relational Operator (take input from user)
