@@ -147,8 +147,11 @@ Lab task : To check number is Positive or negative
 			-56
 
 Lab task - number -ve , +ve ,0
+			create program to check number is even/odd 
+	
 
 To accept value from user  - Scanner 
+
 
 
 
