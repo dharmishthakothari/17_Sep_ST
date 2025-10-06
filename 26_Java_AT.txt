@@ -87,3 +87,71 @@ Java ?
 
 &       0000 0100 
 
+6th oct
+
+Operators 
+		Arithmatic - +,-,*,/,% , 
+		Relational - >,<,>=,<=,==,!=
+		Logical
+		Bitwise
+		ternary operator
+		instanceof operort 
+
+condition statements 
+		Output - true/false
+		when we have alternatives/options then we are using conditonal statements 
+		1. if   
+				if condition
+				{
+					stmt 
+				}
+		2. if else
+				if condition
+				{
+						stmt
+				}
+				else
+				{
+						stmt
+				}
+
+		3. if elseif
+				if condition
+				{
+					stmt
+				}
+				else if(condition)
+				{
+					stmt
+				}
+				else if(condition)
+				{
+					stmt
+				}
+
+		4. nested if
+			if (condition)
+			{
+				if(condition)
+				{
+					stmt
+				}
+			}
+
+Lab task : To check number is Positive or negative
+			20
+			22
+			575675676
+			-78
+			-444
+			-56
+
+Lab task - number -ve , +ve ,0
+
+To accept value from user  - Scanner 
+
+
+
+
+
+
