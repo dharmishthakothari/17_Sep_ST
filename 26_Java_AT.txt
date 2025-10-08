@@ -153,6 +153,25 @@ Lab task - number -ve , +ve ,0
 To accept value from user  - Scanner 
 
 
+8th Oct 
+
+		conditional statements ? --- we have to check the condition/option 
+						if
+						if else
+						if else if
+						nested if (if within if)
+
+			1. number positive/Nagative
+			2. grade marks bases grade marks = 90-100 "A" , 70-90 "B" 50-70 C 50-45 "E" else "Fail
+			3. User is elibilbel to donate blood - age , weight  age>18 and weight greate 50 eligile to donate blood
+
+
+			enter age 0-2 print infant , 3-17 Minor 18-60 adult , 60 seniour 70 super seniour 0
+
+
+
+
+
 
 
 
