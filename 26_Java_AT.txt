@@ -168,6 +168,56 @@ To accept value from user  - Scanner
 
 			enter age 0-2 print infant , 3-17 Minor 18-60 adult , 60 seniour 70 super seniour 0
 
+13th Oct
+
+Task :
+		enter number from user : ,number from 1-7 
+		if user enters 1 print - "Monday"
+		if user enters 2 print - "Tuesday"
+		if user enters 3 print - "Wendesday"
+Lab Task  : User enters Month Name "January" output will days "31 days"
+									"February" output will days "28 or 29 days"
+
+
+Nested If stmts :
+			if age>18 --Adult 
+			if age>18
+				if condition 
+
+			To check user is able to donate blood or not 
+				1. user must adult 
+				2. Wieght >45
+
+			if(age>=18)
+			{
+				if(weight>=45)
+				{
+					sop("User is eligilbe to donate blood");
+				}
+				else
+				{
+					sop("User is underweight");
+			}else
+				{
+					sop("User is not Adult");
+			}
+		
+
+Looping : Repeatation 
+		loops 
+			1. while - entry control loop
+					while(condition)
+					{
+						stmts 
+					}
+
+			2. do ... while - exit control loop
+			3. for -- entry control loop
+
+
+
+
+
 
 
 
