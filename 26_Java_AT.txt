@@ -214,6 +214,15 @@ Looping : Repeatation
 			2. do ... while - exit control loop
 			3. for -- entry control loop
 
+15th oct :
+
+Print odd numbers from user entered range 
+input number 1 : 10
+input number2 : 35
+print odd numbers from 10 to 35
+
+
+
 
 
 
