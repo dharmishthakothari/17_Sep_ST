@@ -221,9 +221,21 @@ input number 1 : 10
 input number2 : 35
 print odd numbers from 10 to 35
 
+17th Oct 
+
+do while loop ? repetation 
+
+syntax 
+do
+{
+	stmt
+}
+while(condition);
 
 
+1. print 1-10 with do while loop
 
+Lab task : Perform all programs which was develop with 'while' recreate with 'do ...while'
 
 
 
