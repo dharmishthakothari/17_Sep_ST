@@ -238,6 +238,61 @@ while(condition);
 Lab task : Perform all programs which was develop with 'while' recreate with 'do ...while'
 
 
+27th Oct 
+
+- do while loop 
+- syntext  -  
+do 
+{
+	stmts
+}while(condition);
+
+-for loop 
+  - repeatation 
+ - for(intilization ; condition ; increment/decrement)
+	{
+		stmt
+	}
+	print 1-10 
+
+i=1;
+while(i<=10)
+{
+	sop(i);
+	i++;
+}
+
+for(i=1;i<=10;i++)
+{
+	sop(i);
+}
+
+
+Differece : While , do while , for 
+			- entry control- for ,while
+			- exit control - do while
+			no of iteration is fixed - for 
+			no idea about iteration then use do..while , while 
+
+
+- break , continue control statements 
+
+		To break loop based on condition , using break stmt 
+		break when i is 5 
+		loop will be exit/break when perticular condition 
+
+continue - skip current iteration and continue with next iteration 
+		continue when i is 5
+
+
+
+1. print multilication table with for loop 
+2. print 1-100 and break when value is divisable by 57
+
+
+
+
+
 
 
 
