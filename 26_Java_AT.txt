@@ -291,6 +291,51 @@ continue - skip current iteration and continue with next iteration
 
 
 
+29th oct 
+
+for - repeation - entry control - 
+      for(int i=1;i<=10;i++)
+		{
+			sop(i);
+		}
+
+break - loop break based on condition
+continue - skip current iteration 
+
+Array -> 
+
+int roll_no1,rool_no2,roll_no3,......roll_no70....;
+
+-- array is special data type which store multiple values under same/single name .
+-- array always use with [] breakets 
+-- array always access thru index 
+-- index always stars from 0
+
+storing 70 roll_nos of int type
+
+//array declaration 
+int roll_no[70];
+float precentage[70];
+
+int roll_no1,roll_no2,roll_no3;
+roll_no1=1001;
+roll_no2=1002;
+roll_no3=1003;
+
+//array initlization 
+roll_no[0]=1001;
+roll_no[1]=1002;
+roll_no[2]=1003;
+.....
+roll_no[69]=1070;
+
+
+
+
+
+
+
+
 
 
 
