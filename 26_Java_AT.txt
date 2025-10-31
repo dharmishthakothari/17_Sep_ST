@@ -329,6 +329,49 @@ roll_no[2]=1003;
 .....
 roll_no[69]=1070;
 
+31st Oct 
+
+	How we can accept data from user in array .
+Scanner
+Array
+
+ Please enter no of Elements 
+input : 5
+
+Please enter no 1 = 12
+Please enter no 2 = 125
+Please enter no 3 = 1
+Please enter no 4 = 2
+Please enter no 5 = 342
+
+output : 
+12
+125
+1
+2
+342
+
+Lab Task : accept the float values from user 
+
+- sum of all array elements 
+
+static array 
+
+int[] arr={23,45,12}
+sum= 80
+
+Lab task : Accept array from user and sum of it.
+
+Lab Task : Print even odd element 
+
+3
+12
+23
+11
+output
+12 -even
+23 - odd
+11 - odd
 
 
 
