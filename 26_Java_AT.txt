@@ -373,6 +373,45 @@ output
 23 - odd
 11 - odd
 
+5th Nov 
+	- Datatypes
+    - conditional stmt
+    - loops - for,while , do while loop
+   - switch case
+   - array 
+- OOP  - Object oreinted Programming
+     procedure/function oreinted programming  - C
+     OOP - java
+     Hybrid - C++ 
+
+OOP concepts
+ 1. class
+ 2. Object
+ 3. Inheritance
+ 4. Encapsulation
+ 5. Polymorphisum
+ 6. Abstraction
+
+
+class - It's is blueprint of an object.
+        It is collection of objects.
+        It has data members and member functions
+        Vehical - no_of_wheels,engine , body_type,color,price 
+                  drive
+        Person - name,address,age,c_no,email.......
+                 eat,speakm,walk - detailsPrint,getDetails
+
+Object - Real entity 
+      - It is type of class
+	 - int num
+     - Vehical scooter; 
+     - Vehical car;
+     -Person sangini;
+    - Person dharmishtha;
+   - object have a own data and member function
+
+
+  
 
 
 
