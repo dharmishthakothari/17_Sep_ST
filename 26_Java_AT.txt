@@ -473,9 +473,43 @@ Display book information
 Calculate and show the total value of all copies of a book (price × quantity)
 
 
+11th Nov
+   Constructor  -> 
+
+void setDetails(String name,int accNumber1,float initBalance)
+	{
+		accHolderName=name;
+		accNumber=accNumber1;
+		balance=initBalance;
+	}
+  
+to initilize accHolderName , accNumber , balance created method setDetails 
 
 
+Rather then createing method we are createing constructor 
 
+- To inilize object
+- called automatically
+- when object is created constructor is called
+- constructor have a same name as class name
+- one class have 1 or more constructor 
+-Constructor doesn't have return type
+
+-Each class have default construtor/no paramterize constructor 
+
+BUT when we are using/creating paramterize constructor then we MUST have implement no argument constructor 
+
+
+- Account / Book replace with construtor 
+
+this - keyword 
+    it is reference to current object 
+
+3 - INHERITANCE
+    Parent-child
+    Property of one class can use property of another class 
+    reusability
+    super - keyword
 
 
 
