@@ -512,6 +512,19 @@ this - keyword
     super - keyword
 
 
+Lab task : Read types of inheritance 
+Lab task : BankAccounts create 5 objects using array 
+
+int[] num=new int[5];
+BankAccount obj[5];
+obj[0]=new BankAccount("Ritesh",234,122222);
+obj[1]=new BankAccount("Mayur",222,12222);
+obj[2]=new BankAccount("Dharmsihtha",777,2222);
+
+obj[2].display();
+
+
+
 
 
 
