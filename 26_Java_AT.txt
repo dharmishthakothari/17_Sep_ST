@@ -524,6 +524,40 @@ obj[2]=new BankAccount("Dharmsihtha",777,2222);
 obj[2].display();
 
 
+12th Nov 
+
+- Inheritance is self study 
+
+polymorphisum  - one name many form 
+
+Sangini - student , daughter , intern , friend , 
+
+2 types 
+1. Compile time/static binding / method overloading  
+    - Method overloading means same method name but arguments are different 
+      argument doen't match then gives compil time error.
+      at the time of copilation will decide which method is called based on parameter
+		addition(int ,int)
+        addition(int,int,int)
+        addition(int ,float)
+
+  - overload constructor 
+  class can have more then one cosntructor with arguments 
+
+   main()
+      addition(2,3,2);
+	 addition(2.3,23); - error
+
+
+2. run time/dynamic binding / method overriding
+  - same method name and arguments are also same parent-child
+ - you have 2 different classes
+-super
+
+
+Lab task : Constructor Overloading Book ,BankAccount(), - name,initBalance 
+addition 
+
 
 
 
