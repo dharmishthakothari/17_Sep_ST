@@ -559,6 +559,100 @@ Lab task : Constructor Overloading Book ,BankAccount(), - name,initBalance
 addition 
 
 
+14th Nov
+
+OOPS 
+   - class
+	-object
+ 	Inheritance
+	Polyphisum 
+		Compile time Poly - eg method Overloading
+		Runtime Poly - eg metho Overriding 	same method name same argument but here we are concept of inheritance 
+		Shape - calculateArea()
+		Rectangle uses Shape - calculateArea()
+		Sqaure uses Shape - calculaArea()
+
+Lab Task : Overrding Rectangle and Square Constructor
+
+Polymorphisum
+
+Create a class Shape with a method area().
+
+
+Create subclasses:
+Circle (with radius)
+
+
+Rectangle (with width and height)
+Override the area() method in each subclass.
+
+
+Create a method printArea(Shape s) in a separate ShapeTest class that prints the area.
+
+
+In main, call printArea() with both Circle and Rectangle.
+
+
+2.Create a class Animal with a method makeSound() that prints "Some sound".
+
+
+Create subclasses Dog and Cat that override makeSound() to print "Bark" and "Meow".
+
+
+In your main method:
+
+
+Create an array of Animal objects containing both Dog and Cat.
+
+
+Loop through the array and call makeSound().
+
+
+3. Create a base class Printer with a method print().
+
+Create subclasses LaserPrinter and InkjetPrinter overriding print().
+
+Add a method in the base class called testPrint(Printer p) that calls p.print().
+
+In main, pass different subclass instances to testPrint().
+
+
+4. Create an abstract class Shape with an abstract draw() method.
+
+
+Create Circle, Rectangle, and Triangle classes.
+
+
+Create a ShapeFactory class with a method getShape(String type) that returns a Shape.
+
+
+In main, get different shapes from the factory and call draw()
+
+
+5. Create a base class Player with a method attack().
+
+Create subclasses Warrior, Archer, and Mage.
+
+Each subclass overrides attack() with a unique message.
+
+Create an array of Player and simulate a battle by calling attack() on each.
+
+
+6. 
+Create a base class Bank with method getInterestRate() → 5.
+
+Create subclasses HDFCBank, ICICIBank, and SBIBank that override it with different rates.
+
+In main, create objects of each and print the rate.
+
+Next Abstraction 
+
+	
+		
+
+
+
+	
 
 
 
