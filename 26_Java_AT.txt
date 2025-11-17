@@ -647,12 +647,65 @@ In main, create objects of each and print the rate.
 
 Next Abstraction 
 
-	
+17th nov
+
+Method overriding -  same method name and same arguments 
+
+Abstraction - sebsitive hide -
+ - display only essential details and hidning other details.
+
+1. abstract class
+2. interface 
+
+abstract class 
+- have one or more abstract method
+- abstract method and non abstract method 
+- if method is abstract then it must be implement/overriding into subclass
+- can not create object of abstract class 
+- if class have one method as abstract then that class is abstract
+-abstract methods doesn't have body
+
+Interface 
+- 100% abstract 
+- all methods abstract methods 
+- just declaration 
+- implements not extends
+- data in interface are public , final bydefault
+
+
+Lab Task : 
+
+Abstraction (polymorphism + Inheritance)
+Create class Account with method calculateInterest().
+Create subclasses:
+SavingsAccount → returns 4%
+CurrentAccount → returns 2%
+
+Create an array of Account references and store both subclass objects.
+Loop through and call calculateInterest().
+
+2.
+Create a base class Product with:
+Fields: name, price
+Method: displayDetails()
+
+
+Subclasses:
+Electronics → adds warrantyYears
+Clothing → adds size
+Override displayDetails() to include subclass info.
+
+
+
+
+
+
 		
 
 
 
 	
+
 
 
 
