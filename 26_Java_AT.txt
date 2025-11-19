@@ -696,6 +696,32 @@ Clothing → adds size
 Override displayDetails() to include subclass info.
 
 
+19th Nov
+- Abstract 
+-Interface 
+
+
+--- there are in built and user defined classes 
+
+in build - Scanner ,System , String ......
+StringBuilder / StringBuffer 
+
+Lab Task : Find difference between StringBuilder and StringBuffer 
+- Ask username and password from user and reverse it
+
+
+Wrapper classes - java object oreitend 
+primitive types - int ,float, double ,long , boolean ,char 
+String name
+int number
+int[] numbers
+
+
+There are wrapper classes avaialbe int - Integer
+char - Character
+float - Float
+long - Long
+
 
 
 
@@ -705,6 +731,7 @@ Override displayDetails() to include subclass info.
 
 
 	
+
 
 
 
