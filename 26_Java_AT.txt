@@ -722,7 +722,34 @@ char - Character
 float - Float
 long - Long
 
+21st Nov 
+->Exceptions 
+Normal flow of execution break 
+- input incorrect 
+- accessing index which is not exist (Array Inex out of bounce)
+- File reading which is not exist s 
+-Division by 0
 
+
+2 types 
+- Compile Time -  Must handle at the compilation 
+- Run Time - Handle at the time of execution 
+
+Hadling those exception 
+we are using 
+try
+catch
+finally
+thow
+throws
+
+handle at compilation try catch or thrwos 
+
+one try have multile catch blocks 
+100 line code 5th divide by 0 20th line file not found 45th input error 
+
+
+	
 
 
 
@@ -731,6 +758,7 @@ long - Long
 
 
 	
+
 
 
 
