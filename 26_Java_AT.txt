@@ -749,6 +749,36 @@ one try have multile catch blocks
 100 line code 5th divide by 0 20th line file not found 45th input error 
 
 
+26th Nov
+
+Collection 
+	Framework
+    Collection API
+    Organize data
+	-List
+    -Set
+    -Queue
+
+
+- add items/objects
+- add collection
+-iterate the collection
+- use diffrent (get,size,add,addall)
+-Iterator
+
+Genrics - <E> 
+List employee
+List City 
+ArrayList<String> lst=new ArrayList<String>();
+now lst allow only string element/object
+
+Lab taks : Use Iterator 
+Diffreence between Hashset and TreeSet , ArrayList and LinkedList 
+Practicals of ArrayList and HashSet
+
+
+
+
 	
 
 
@@ -758,6 +788,7 @@ one try have multile catch blocks
 
 
 	
+
 
 
 
