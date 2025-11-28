@@ -776,6 +776,20 @@ Lab taks : Use Iterator
 Diffreence between Hashset and TreeSet , ArrayList and LinkedList 
 Practicals of ArrayList and HashSet
 
+28th Nov
+- List ,Set , Queue - collection 
+- orgaize , arrangements ,manipulation ,retrival .
+
+ArrayList
+HashSet
+Map - key and value ,key is unique and value may be dublicate .
+
+File ? 
+Permanent storage - data strore - extension .txt , .java, .docx , .xlsx
+
+you can read/write data from to file 
+
+File - object
 
 
 
@@ -788,6 +802,7 @@ Practicals of ArrayList and HashSet
 
 
 	
+
 
 
 
