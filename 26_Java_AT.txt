@@ -792,9 +792,55 @@ you can read/write data from to file
 File - object
 
 
+3rd Dec 
+    - OOPs  - class,objects,Polymorphisum , abstrction , inheritance
+    - Arrays 
+    - Operators 
+    - String classed
+	- Constructors 
+    - conditional stmts and loop stmt
+    -try catch  -Exception hANDLING
+    -hash map - Collection 
+    - File Handling 
+		File 
+		InputStream / OutStream - Reader/Writer 
+        FileInputStream - FileOutputStream
+        DataInputStream   - DataOutputStream
+		BuferedInputStream  - BufferedOutputStream
+        ObjectInputStream 
 
-	
+		Reader/Writer 
+        FileReader - FileWriter
+        BufferedReader - BufferedWriter
 
+
+Lab Task : 
+1. Read data from file (FileInputSteam/FileReader)
+2. Write data ,data have to input from user and then write it  into file (FileOutputStream/FileWriter)
+
+Selenium -
+   - Suite There are 4 componenets (Selenium IDE -record and play , Selenium WebDriver(widely used) , Selenium Remote Controle (Deprecated) , Selenium Grid (Cross platform testing - Node Hub )
+
+
+Sleeniujm WebDriver 
+   - Supports all/major browsers
+    Web Application , Functional Testing
+  - WebDriver Interface
+  - Browser related Drivers (ChromeDriver,FireFoxDriver,.....)
+ - Object Identification ( WebElements )
+ - Methods
+ - textbox,radio,checkboxes , links,drop down , file ,tables 
+  - Locators ( name , id ,linktext , css , xpath)
+
+1. open browser 
+2. enter URL  
+3. Close Browser
+
+1. eclipse
+2. java
+3. Selenium Download 
+
+Lab Task : Selenium.dev - click Downloads,Blogs
 
 
 		
@@ -802,6 +848,7 @@ File - object
 
 
 	
+
 
 
 
