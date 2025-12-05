@@ -842,12 +842,28 @@ Sleeniujm WebDriver
 
 Lab Task : Selenium.dev - click Downloads,Blogs
 
-
+5th Dec
+  -Selenium Integerate 
+ - WebDriver 
+ - ChromeDriver
+ - get0,getTitle , quit... WebElement click
 		
+
+WebDriver ...getTitle ,get ,quite ....getCurrentURL
+
+LabTask : getCurrentURL
+
+WebElements : On Browser each componenets are elements eg. text box,check box,radio , drop down , button....
+link - click
+text box - type
+drop down - select 
+
+INTERACT with web elements
 
 
 
 	
+
 
 
 
