@@ -860,9 +860,44 @@ drop down - select
 
 INTERACT with web elements
 
+8th Dec
+
+WebDriver - interface, related to browser 
+
+WebElement - interface , each coponenet on browser are web elements like textbox,lable,drop down....
+               driver.findElement
+
+WebElement
+Locators  - 
+1. name
+2. id
+3. tagName
+4. linkText
+5. partiallinktext
+6. cssSelector
+7. xpath
+
+textbox - username - id-name-xpath
+
+
+
+Examples:
+driver.findElement(By.cssSelector("#loginBtn"));               // ID
+driver.findElement(By.cssSelector(".btn"));                    // Class
+driver.findElement(By.cssSelector("input[name='email']"));     // Attribute
+driver.findElement(By.cssSelector("div > ul li:first-child")); // Structure
+
+
+xpath 
+
+rela
+
+
+
 
 
 	
+
 
 
 
