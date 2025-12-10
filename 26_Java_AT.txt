@@ -892,11 +892,21 @@ xpath
 
 rela
 
+10th Dec
+   - check boxes , radio , drop down 
 
+group 
+hobbies - drawing ,dancing ,swimming
+gender - male , female
+check boxes 
+
+Lab Task : Select country from https://demo.guru99.com/test/newtours/register.php
+2. Practise radio and checkbox from https://demo.guru99.com/test/radio.html
 
 
 
 	
+
 
 
 
