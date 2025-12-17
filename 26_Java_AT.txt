@@ -914,6 +914,13 @@ xpath - relative
 	    absolute - from starting 
 
 	
+17th Dec 
+		Web Element - coponenet - textbox,password , drop down,check box,radio , link 
+						alert - simple ,prompt
+						tables ,scroll bar 
+
+
+		double click , right click ,drag and drop 
 
 
 
