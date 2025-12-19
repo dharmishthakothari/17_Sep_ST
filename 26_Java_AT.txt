@@ -921,6 +921,15 @@ xpath - relative
 
 
 		double click , right click ,drag and drop 
+	Actions
+
+Lab Task : Scroll down 
+
+
+TestNG - Framework , Next Generation
+Third party , install ,configure 
+
+
 
 
 
