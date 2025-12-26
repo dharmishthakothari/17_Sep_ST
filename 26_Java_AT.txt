@@ -930,7 +930,10 @@ TestNG - Framework , Next Generation
 Third party , install ,configure 
 
 --- 
+26th Dec 
+   annotations - @test , @BeforeTest , @BeforeMethod , @
 
+Assertion - for verification Exptected and actual 
 
 
 
