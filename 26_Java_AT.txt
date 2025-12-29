@@ -935,6 +935,17 @@ Third party , install ,configure
 
 Assertion - for verification Exptected and actual 
 
+29th Dec
+
+TestNG --1. annotatoins , @BeforeMethod , @AfterMethod ,@Test , @BeforeTEst,@AfterTest....
+		 2. @Test attributes - Priority ,enabled ,groups,dependesOnMethods,DependesOnGroups
+		 3. Configuration - testng.xml
+		 4. Paramterization - same test execute with different paramters 
+
+2 tyeps of paramterization
+
+1. @Parameters  - xml
+2 @DataProvider - TestNGTest
 
 
 
