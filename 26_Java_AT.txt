@@ -948,9 +948,27 @@ TestNG --1. annotatoins , @BeforeMethod , @AfterMethod ,@Test , @BeforeTEst,@Aft
 2 @DataProvider - TestNGTest
 
 
+31st Dec
+@parameters 
+
+@DataProvider
+
+Lab Taks : Registration form with data provider by tomorrow
 
 
+Selenium 
+TesttNG
+Selenium+TestNG
+Framework  - DataDrivenFramework  - fetch data from some files i.e excel,csv,sql
+									same test script run with different data 
 
+text file read
+	
+
+Excel file read 
+		--- 1. excel file read
+			2. external jar poi
+			3. excel -->workbook ->worksheet ->row ->cell
 
 
 
