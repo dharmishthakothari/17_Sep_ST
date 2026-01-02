@@ -968,8 +968,14 @@ text file read
 Excel file read 
 		--- 1. excel file read
 			2. external jar poi
-			3. excel -->workbook ->worksheet ->row ->cell
+				3. excel -->workbook ->worksheet ->row ->cell
 
+
+2nd Jan
+  -- Selenium(jar) , Excel (jar) ,TestNG (jar)
+  - - selenium version ,poi 
+	-- need not to add jar manually ,remove conflict of jars 
+    --MAVEN  -- project management tool
 
 
 
