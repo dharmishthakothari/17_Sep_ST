@@ -977,6 +977,10 @@ Excel file read
 	-- need not to add jar manually ,remove conflict of jars 
     --MAVEN  -- project management tool
 
+7th Jan
+
+Maven--- Selenium , TestNG 
+
 
 
 
