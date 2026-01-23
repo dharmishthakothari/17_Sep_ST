@@ -981,6 +981,16 @@ Excel file read
 
 Maven--- Selenium , TestNG 
 
+---23rd Jan 
+---  API Testing 
+    Application Programming Interface 
+
+-- UI testing GUI , button.textboxes ....
+-- backend API 
+--cheap 
+
+POSTMan 
+
 
 
 
