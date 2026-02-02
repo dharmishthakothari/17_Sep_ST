@@ -990,6 +990,11 @@ Maven--- Selenium , TestNG
 --cheap 
 
 POSTMan 
+ 2nd Feb
+   --- Functional Testing  - Selenium WebDriver 
+   --Non functional Testing (Performance/load / stress/compatibility/security/usability)
+     JMETER
+
 
 
 
