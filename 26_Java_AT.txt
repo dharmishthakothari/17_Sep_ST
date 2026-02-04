@@ -995,6 +995,13 @@ POSTMan
    --Non functional Testing (Performance/load / stress/compatibility/security/usability)
      JMETER
 
+4th Feb 
+ -jmeter 
+-- Test Plan, Test Group , Http Request 
+
+Lab Task : Aggregate vs Summary report
+
+Assert.assertEqual(exptedResult,actualResult)
 
 
 
